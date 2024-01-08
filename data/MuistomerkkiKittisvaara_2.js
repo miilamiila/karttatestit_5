@@ -1,0 +1,1 @@
+var json_MuistomerkkiKittisvaara_2 = {"type":"FeatureCollection","name":"MuistomerkkiKittisvaara_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"2"},"geometry":{"type":"Point","coordinates":[24.007843514103055,66.809468677350054]}}]}
